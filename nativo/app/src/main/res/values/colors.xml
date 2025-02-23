@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="accentColor">#FF9800</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="editTextBackground">#E3F2FD</color>
+    <color name="backgroundGradientStart">#64B5F6</color>
+    <color name="backgroundGradientEnd">#BBDEFB</color>
+
+
+</resources>
